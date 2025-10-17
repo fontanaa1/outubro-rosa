@@ -67,7 +67,7 @@ body {
     color: #FFFFFF;
     font-size: small;
     text-align: left;
-    max-width: 800px;
+    /* max-width: 800px; */
     line-height: 1.6;
 }
 
